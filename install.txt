@@ -1,0 +1,4 @@
+popplerqt4 for pdf showing,		(sudo apt-get install python-poppler-qt4)
+qsciscintilla for the editor, 	(sudo apt-get install python-qscintilla2)
+sympy for the latex code		(sudo apt-get install sympy)
+latexpdf for the pdf

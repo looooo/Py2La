@@ -1,0 +1,6 @@
+1. auftrennen des scripts. Funktion + Funtionnummer in ein dict speichern.
+	-pythonfile
+	-direkte latexausgabe
+	-python, sympy formeln
+
+2. zeile für zeile ausführen
